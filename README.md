@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... Typescript
 - 💞️ I’m looking to collaborate on ... exiciting projects
-- 📫 How to reach me ... [Portfolio] https://inder-portfolio.vercel.in
+- 📫 How to reach me ... [Portfolio] https://inder-portfolio.vercel.app
 
 <!---
 CodeinIP/CodeinIP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
