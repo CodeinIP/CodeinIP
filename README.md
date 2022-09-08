@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Inder Pal</h1>
 <h3 align="center">A passionate frontend developer from Himachal Pradesh, India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeinip&label=Profile%20views&color=0e75b6&style=flat" alt="codeinip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inder-pal-github&label=Profile%20views&color=0e75b6&style=flat" alt="inder-pal-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeinip" alt="codeinip" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inder-pal-github" alt="inder-pal-github" /></a> </p>
 <img align="right" alt="coderImage" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 
 - 🌱 I’m currently learning **React**
