@@ -32,3 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inder-pal-github&" alt="inder-pal-github" /></p>
 
+<a href="https://github.com/Inder-Pal-github/github-readme-activity-graph">
+  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Inder-Pal-github&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
