@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inder Pal</h1>
-<h3 align="center">A passionate frontend developer from Himachal Pradesh, India. <br/> Aiming to leverage the proven knowledge of web
-development. Looking forward to joining a company
+<h3 align="center">A passionate frontend developer from Himachal Pradesh, India. <br/> Looking forward to joining a company
 where I will be able to contribute towards individual
 and company growth. </h3>
 
