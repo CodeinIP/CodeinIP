@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inder Pal</h1>
-<h3 align="center">A passionate frontend developer from Himachal Pradesh, India.</h3>
+<h3 align="center">A passionate frontend developer from Himachal Pradesh, India. <br/> Love to learn new thing and really good team player </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inder-pal-github&label=Profile%20views&color=0e75b6&style=flat" alt="inder-pal-github" /> </p>
 
