@@ -3,9 +3,9 @@
 where I will be able to contribute towards individual
 and company growth. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inder-pal-github&label=Profile%20views&color=0e75b6&style=flat" alt="inder-pal-github" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inder231&label=Profile%20views&color=0e75b6&style=flat" alt="inder231" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inder-pal-github" alt="inder-pal-github" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inder231" alt="inder231" /></a> </p>
 <img align="right" alt="coderImage" width="400px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 - 🌱 I’m currently learning **mongoDB**
 
@@ -48,13 +48,13 @@ and company growth. </h3>
 </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inder-pal-github&show_icons=true&locale=en&layout=compact" alt="inder-pal-github" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inder231&show_icons=true&locale=en&layout=compact" alt="inder231" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inder-pal-github&show_icons=true&locale=en" alt="inder-pal-github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inder231&show_icons=true&locale=en" alt="inder231" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inder-pal-github&" alt="inder-pal-github" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inder231&" alt="inder231" /></p>
 
-<a href="https://github.com/Inder-Pal-github/github-readme-activity-graph">
-  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Inder-Pal-github&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a href="https://github.com/inder231/github-readme-activity-graph">
+  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=inder231&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
